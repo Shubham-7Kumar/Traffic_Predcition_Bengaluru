@@ -1,6 +1,6 @@
 # 🚗 Bengaluru Traffic Predictor
 
-An interactive web application that predicts traffic travel times in Bengaluru using Machine Learning. Built with Python, `scikit-learn` (Random Forest), and a dynamic front-end using `Streamlit`. 
+An interactive web application that predicts traffic travel times in Bengaluru using Machine Learning. Built with Python, `scikit-learn` (Random Forest), and a dynamic front-end using `Streamlit` module. 
 
 ## 🌟 Features
 
